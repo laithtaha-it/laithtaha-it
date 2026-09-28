@@ -60,4 +60,4 @@ Flutter Developer and Information Technology graduate with a strong foundation i
 ---
 
 🎓 **Education:** Bachelor's Degree in Information Technology — Sana'a University (Sep 2022 – Aug 2026)  
-📬 **Contact:** Reach out via [LinkedIn](https://www.linkedin.com/in/laith-taha-32633042b) or directly at **laith.taha.tech@gmail.com**.
+📬 **Contact:** Reach out via [instagram](https://www.instagram.com/0wlll_?igsi=eWZwYnJuemt0MTF5&utm_source=qr) or directly at **laith.taha.tech@gmail.com**.
