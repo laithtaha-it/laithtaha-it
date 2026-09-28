@@ -1,63 +1,72 @@
-# Hi there, I'm Laith Taha 👋
-**Flutter Developer & Information Technology Graduate**
+<div align="center">
+  <h1>Laith Taha</h1>
+  <p><strong>Senior Software Engineer | Mobile & Cross-Platform Architect</strong></p>
+  <p>Specializing in Production-Grade Flutter Engineering, Clean Architecture, and Distributed Systems Integration.</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-00599E?style=for-the-badge&logo=flutter&logoColor=white)](https://laithtaha-it.github.io/laith/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laith_Taha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laith-taha-32633042b)
-[![Gmail](https://img.shields.io/badge/Gmail-laith.taha.tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laith.taha.tech@gmail.com)
+  <a href="https://github.com/laithtaha-it">
+    <img src="https://img.shields.io/badge/GitHub-laithtaha--it-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-### 🎯 Professional Summary
-Flutter Developer and Information Technology graduate with a strong foundation in software engineering and hands-on experience delivering real-world, cross-platform applications. Combines a software-first mindset with broad cross-domain knowledge spanning IoT, AI, networking, and systems infrastructure. Focused on building maintainable codebases, integrating reliable APIs, and developing scalable, user-focused mobile solutions.
+### 📐 Engineering Philosophy & Core Expertise
+
+I build maintainable, high-performance mobile and web applications with a uncompromising focus on architectural purity, offline-first reliability, and seamless hardware-to-cloud telemetry.
+
+- **Architecture & Design:** Clean Architecture, Feature-First Project Layouts, BLoC/Cubit State Management, SOLID Principles.
+- **Cross-Platform:** Production-grade Flutter Development (Mobile & Web), Universal Responsive Layouts, Multi-Lingual Engine (Dynamic RTL/LTR with Font Fallback Hierarchies).
+- **Backend & Cloud Infrastructure:** Firebase Suite (Firestore with Local Cache Engine, Realtime DB, Cloud Storage, FCM), Cloud Functions, RESTful & Edge APIs.
+- **Offline Persistence & Data Sync:** Local-first caching strategies using Hive and Shared Preferences, automated sync engines with external storage APIs.
+- **IoT & Hardware Integration:** End-to-end integration between Flutter clients, microcontrollers (ESP32), and edge AI decision engines (TensorFlow Lite / Hosted ML Models).
 
 ---
 
-### 🛠️ Technical Skills
+### 🛸 Key Architectural Showcase
 
-| Domain | Technologies & Frameworks |
+#### 🌿 Smart Garden System
+> **End-to-End Automated Irrigation & AI Plant Pathology Engine**
+* **Core Tech:** Flutter, ESP32 Microcontroller, Firebase Realtime Sync, Cloud Functions, TensorFlow.
+* **Architecture:** Edge-sensor telemetry driving serverless Cloud Functions, real-time manual/automatic pump execution overrides, and asynchronous AI diagnostic inference pipelines.
+
+#### 🔐 Keeply Vault
+> **Offline-First Personal Security & Media Locker**
+* **Core Tech:** Flutter, Hive Local DB, Encrypted Local Storage, Google Drive Delta Sync API.
+* **Architecture:** Zero-trust architecture design, client-side encryption before persistence, incremental backup algorithms ensuring zero data loss across network shifts.
+
+#### 🌐 Dynamic Portfolio Platform
+> **Reactive Admin Dashboard & Web Client**
+* **Core Tech:** Flutter Web, Cloud Firestore Engine, Dynamic CMS Logic.
+* **Architecture:** State-driven CMS architecture rendering decoupled dynamic UI modules via real-time Firestore listeners.
+
+---
+
+### 💻 Technical Stack Overview
+
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Mobile Development** | Flutter, Dart, BLoC/Cubit, Riverpod, Clean Architecture, GoRouter, Dynamic Localization (RTL/LTR) |
-| **Backend & Cloud Services** | Firebase (Firestore, Auth, Storage, FCM, Realtime DB), Cloud Functions, Node.js, REST APIs, Dio, Google Drive API |
-| **Databases & Offline Storage** | Hive, SharedPreferences, flutter_secure_storage, SQLite, MySQL |
-| **AI, IoT & Computer Vision** | TensorFlow, Computer Vision, ESP32 Integration, Telemetry & Sensor Control |
-| **Networking & Infrastructure** | TCP/IP, Active Directory (AD DS), DNS, DHCP, Windows Server Failover Clustering, iSCSI, Cisco CCNA |
+| **Languages** | Dart, JavaScript / Node.js, C++ (ESP32 Firmware) |
+| **Frameworks** | Flutter (Mobile & Web) |
+| **State Management** | BLoC, Cubit |
+| **Databases & Storage** | Cloud Firestore, Firebase Realtime DB, Hive, Shared Preferences |
+| **Backend & Services** | Firebase Cloud Functions, FCM, Cloud Storage, Google Drive API |
+| **Hardware & IoT** | ESP32, MQTT/HTTP Protocols, Sensor Telemetry |
+| **Tooling & Environments** | Visual Studio Code, Git, PowerShell, Android Studio |
 
 ---
 
-### 🚀 Featured Projects
+### 📊 GitHub Activity
 
-#### 🔐 [Keeply — Personal Security Vault](https://github.com/laithtaha-it)
-* **Tech Stack:** `Flutter` `Dart` `BLoC` `Clean Architecture` `Hive` `Google Drive API` `SHA-256`
-* Developed an offline-first personal security vault for managing passwords, bookmarks, media, documents, and hierarchical folders.
-* Engineered a Google Drive backup system featuring selective section-based operations and merge-based restoration to prevent data overwrites.
-* Implemented an incremental synchronization engine using **SHA-256 content hashing** to detect modified data and optimize cloud transfers.
-
-#### 🌿 [Smart Garden — IoT & AI-Based Smart Gardening System](https://github.com/laithtaha-it) *(Distinction Award Winner)*
-* **Tech Stack:** `Flutter` `ESP32` `Firebase Realtime DB` `Cloud Functions` `FCM` `TensorFlow`
-* Built a full-stack IoT platform for real-time sensor monitoring, automated irrigation, and remote hardware control.
-* Built a serverless backend via Firebase Cloud Functions to process hardware events and send real-time notifications for pump/water issues.
-* Implemented a cloud-based AI plant disease diagnosis system using TensorFlow for image classification with confidence scores.
-
-#### 📖 [Noor — Quran & Islamic Companion App](https://github.com/laithtaha-it)
-* **Tech Stack:** `Flutter` `Riverpod` `GoRouter` `Dio` `REST APIs` `SharedPreferences` `Flutter Map`
-* Integrated RESTful APIs and local persistence using Dio and SharedPreferences for offline-friendly caching of Tafsir and prayer times.
-* Built location-aware Islamic services using Geolocator, Compass, and Flutter Map for Qibla direction and nearby mosque discovery.
-
-#### 💻 [Personal Portfolio — Responsive Web Platform](https://laithtaha-it.github.io/laith/)
-* **Tech Stack:** `Flutter Web` `BLoC/Cubit` `Clean Architecture` `Firebase Auth & Firestore` `GoRouter`
-* Built a responsive Flutter Web portfolio with a dedicated authenticated admin dashboard for dynamic content management.
-* Secured administrative operations using Firebase Authentication and Firestore Security Rules with database-level verification.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laithtaha-it&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Laith's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=laithtaha-it&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
-### 🏆 Certifications & Distinction
-* **Exhibition Distinction Award** — Sana'a University Science & Technology Center
-* **CCNA: Enterprise Networking, Security, and Automation** — Cisco
-* **CCNA: Switching, Routing, and Wireless Essentials** — Cisco
-* **CCNA: Introduction to Networks** — Cisco
-* **Introduction to Cybersecurity** — Cisco
-
----
-
-🎓 **Education:** Bachelor's Degree in Information Technology — Sana'a University (Sep 2022 – Aug 2026)  
-📬 **Contact:** Reach out via [instagram](https://www.instagram.com/0wlll_?igsi=eWZwYnJuemt0MTF5&utm_source=qr) or directly at **laith.taha.tech@gmail.com**.
+<div align="center">
+  <sub>Engineered with precision by Laith Taha. Built for performance and scalable maintainability.</sub>
+</div>
